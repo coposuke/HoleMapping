@@ -1,0 +1,4 @@
+[*.{cs,vb,shader,compute}]
+charset=utf-8-bom
+indent_style=tab
+end_of_line=lf
